@@ -1,0 +1,57 @@
+html {
+    background-color: rgb(241, 231, 182);
+    background: url("img/pbj\ background.jpg") fixed center;
+}
+
+body {
+    background-color: rgba(252, 245, 204, 0.9);
+    border: 3px solid plum;
+    display: block;
+    margin: 45px auto;
+    height: auto;
+    width: 600px;
+    align-content: center;
+    padding: 50px 50px 50px;
+    border-radius: 20px;
+    letter-spacing: 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h4 {
+    text-align: center;
+}
+
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: rgba(32, 17, 3, 0.849);
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+h3 {
+    font-size: 38px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.MainWebImg {
+    border-radius: 10px;
+    border-top: 20px;
+    text-align: center;
+
+}
+
+h1 {
+    text-align: center;
+    border: 20px solid rgba(221, 173, 253, 10);
+    font-size: 55px;
+    border-radius: 12px;
+}
